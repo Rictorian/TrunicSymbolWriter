@@ -1,0 +1,7 @@
+---Version 0.0.2---
+
+-BC ADD: Added version file and updated .gitignore to avoid including builds of the app
+
+---Version 0.0.1---
+
+-BC ADD: Initial codebase
